@@ -55,6 +55,9 @@ This project builds an end-to-end Machine Learning pipeline to predict candidate
 | **Recall (Non-Joiners)**   | 63%   | ~3.3× better than random baseline (19%) |
 | **F1 Score (Non-Joiners)** | 0.39  | Balances precision vs recall            |
 
+### Confusion Matrix
+![Confusion Matrix Heatmap](confusion_matrix.png)
+*Test set: Model identified 213 out of 336 actual non-joiners. High recall means we catch 63% of dropouts at the cost of more false alarms.*
 ---
 
 ## 6. Model Explainability (Key Drivers)
