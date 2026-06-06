@@ -57,6 +57,7 @@ This project builds an end-to-end Machine Learning pipeline to predict candidate
 
 ### Confusion Matrix
 ![Confusion Matrix Heatmap](confusion_matrix.png)
+
 *Test set: Model identified 213 out of 336 actual non-joiners. High recall means we catch 63% of dropouts at the cost of more false alarms.*
 ---
 
