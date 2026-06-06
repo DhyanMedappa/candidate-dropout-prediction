@@ -10,6 +10,7 @@ This project builds an end-to-end Machine Learning pipeline to predict candidate
 
 ## 2. Dataset
 
+* **Source:** https://www.kaggle.com/datasets/avikumart/hrdatasetclassif
 * **Size:** ~9,000 candidate records
 * **Target Variable:** `Status` (Joined = 1, Not Joined = 0)
 * **Class Distribution:** 81% Joined / 19% Not Joined (Imbalanced)
@@ -83,6 +84,8 @@ By identifying nearly **2 out of 3 high-risk candidates**, HR teams can:
 * Adjust offers or timelines
 * Prepare backup hires
 
+**Limitation:**
+Model performance is constrained by dataset imbalance and lack of temporal features (e.g., market conditions, competing offers).
 ---
 
 ## 8. Tech Stack
