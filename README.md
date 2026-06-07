@@ -113,5 +113,7 @@ Integrate model outputs into an ATS system to flag candidates with high dropout 
 ---
 
 **Author:** Dhyan Medappa Balekuttira 
+
 **LinkedIn:** https://www.linkedin.com/in/dhyan-medappa/
+
 **Project Type:** End-to-end ML + Business Analytics
